@@ -39,9 +39,6 @@
   </a>
 </p>
 
-<a href="https://www.kantanyagamidev.fr">
-    <img src='https://img.shields.io/badge/Website-https%3A%2F%2Fkantanyagamidev.fr%2F-blue' />
-</a>
 <br/>
 <br/>
 <a href='mailto:kantanyagamidev@gmail.com'>
