@@ -83,5 +83,3 @@ Currently preparing to resume a Master's degree (Bac+5) in AI / Data & Machine L
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
-📧 kantanyagamidev@gmail.com
