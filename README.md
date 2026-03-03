@@ -1,46 +1,87 @@
-<h1 align="center">Hi 👋, I'm Kantan Yagami</h1>
+<h1 align="center">Quentin Van Steenwinkel</h1>
+<h3 align="center">Full-Stack Developer • Backend • Systems • Applied AI</h3>
 
+---
 
+## 🧩 Core Stack
 
-
-<p align="center" ><a href="https://app.daily.dev/KANTANDEV"><img src="https://api.daily.dev/devcards/7fbecf1871794289aea4848aa71d2351.png?r=suw" width="400" alt="KANTAN YAGAMI's Dev Card"/></a> </p>
- 
-
-<h3 align="left">Skills :</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=devto,ai" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,python,postgres,prisma,vercel,docker,linux" />
 </p>
 
+---
 
-<h3 align="left">Languages & Framework :</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,py" />
-  </a>
+## ⚙ Systems & Infrastructure
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,aws,azure" />
 </p>
 
+- Linux (Debian, AlmaLinux, RedHat)
+- Proxmox / Virtualized environments
+- Bare metal & VPS administration
+- CI/CD pipelines
+- Podman
+- Git workflows
+- Production deployments
 
+---
 
+## 🧠 AI / Machine Learning
 
-<h3 align="left">Libraries & Tools :</h3>
-<p align="left">
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vite,nodejs,babel,express,prisma,webpack,nextjs,redux,electron,pytorch,materialui,tailwind,threejs,azure,aws,tensorflow,mongodb,firebase,jest,postman" />
-  </a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 </p>
 
- 
-<h3 align="left">Contact :</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/kantan-yagami-534919232/">
+- Machine Learning (scikit-learn)
+- Deep Learning foundations
+- Model evaluation & feature engineering
+- AI integrations (LLM APIs, RAG concepts)
+- Workflow automation
+
+Certifications:
+Stanford • Columbia • University of Washington
+
+---
+
+## 🔐 Cyber & Security Foundations
+
+- OWASP principles  
+- Surface analysis  
+- OSINT  
+- Linux hardening  
+- Basic offensive testing  
+
+---
+
+## 🎮 Exploration
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=godot,cpp,cs,dotnet" />
+</p>
+
+- Game development (Godot – Sword & Totem)
+- C++ experimentation
+- ASP.NET API exploration
+
+---
+
+## 🎓 Background
+
+- Bac +4 Développeur d’applications (RNCP 6)
+- Bac +2 Développeur informatique (RNCP 5)
+- AI Engineer (OpenClassrooms – career in recovery)
+
+Currently preparing to resume a Master's degree (Bac+5) in AI / Data & Machine Learning.
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/quentin-van-steenwinkel-534919232">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
-<br/>
-<br/>
-<a href='mailto:kantanyagamidev@gmail.com'>
- <img src='https://img.shields.io/badge/Email-kantanyagamidev%40gmail.com-blue' />
-<a/>
+📧 kantanyagamidev@gmail.com
