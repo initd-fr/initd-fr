@@ -57,10 +57,10 @@ Stanford • Columbia • University of Washington
 ## 🎮 Exploration
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=godot,cpp,cs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=godot,unity,cpp,cs,dotnet" />
 </p>
 
-- Game development (Godot – Sword & Totem)
+- Game development (Godot, Unity )
 - C++ experimentation
 - ASP.NET API exploration
 
