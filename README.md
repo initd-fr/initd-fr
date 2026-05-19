@@ -70,9 +70,7 @@ Stanford • Columbia • University of Washington
 
 - Bac +4 Développeur d’applications (RNCP 6)
 - Bac +2 Développeur informatique (RNCP 5)
-- AI Engineer (OpenClassrooms – career in recovery)
 
-Currently preparing to resume a Master's degree (Bac+5) in AI / Data & Machine Learning.
 
 ---
 
