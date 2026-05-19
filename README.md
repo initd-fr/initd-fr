@@ -73,11 +73,3 @@ Stanford • Columbia • University of Washington
 
 
 ---
-
-## 📫 Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/quentin-van-steenwinkel-534919232">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
