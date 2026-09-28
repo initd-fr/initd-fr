@@ -46,6 +46,10 @@ Stanford • Columbia • University of Washington
 
 ## 🔐 Cyber & Security Foundations
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali" />
+</p>
+
 - OWASP principles  
 - Surface analysis  
 - OSINT  
