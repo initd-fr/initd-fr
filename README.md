@@ -6,7 +6,7 @@
 ## 🧩 Core Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,react,nextjs,python,postgres,prisma,vercel,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=pnpm,nodejs,ts,react,nextjs,python,fastapi,prisma,vercel,docker,linux,postgres,mysql,sqlite,mongodb" />
 </p>
 
 ---
@@ -14,7 +14,7 @@
 ## ⚙ Systems & Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,docker,vercel,redhat" />
 </p>
 
 - Linux (Debian, AlmaLinux, RedHat)
